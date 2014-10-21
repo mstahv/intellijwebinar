@@ -1,6 +1,6 @@
 # A simple Java EE + Vaadin project setup
 
-A simple project setup example for Vaadin + IntelliJ IDEA webinar.
+A simple project setup example for Vaadin + IntelliJ IDEA webinar. The actual application just reads data from EJB and displays that in a chart.
 
 ### To open the project to your IDE:
 
